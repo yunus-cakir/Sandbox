@@ -3,7 +3,7 @@
 ![Logo 2 Yeni](https://github.com/yunus-cakir/Sandbox/assets/83448525/867fd879-37e1-484f-9060-f642a8766f28)
 
 ## A constant updating modpack that has lots of funny mods for a sandbox experience!
-- Portals*
+- Portals
 - Chipped
 - Automobility
 - Immersive Aircrafts
