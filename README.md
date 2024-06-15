@@ -1,5 +1,5 @@
 # Sandbox
-A constant updating pack that has lots of things for a sandbox experience!
+
 
 ![Logo](https://cdn.modrinth.com/data/cached_images/d8ea402b4ce8c88c37cb56c7ab67f0a20f6f89c0.png)
 
